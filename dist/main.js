@@ -1,0 +1,1 @@
+(()=>{const e=document.querySelector("body"),t=document.createElement("h1");t.textContent="This is the weather app.",e.append(t)})();
